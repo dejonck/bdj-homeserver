@@ -1,0 +1,1 @@
+best way to setup a nice server for homeusage with additional scripts
